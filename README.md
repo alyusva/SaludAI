@@ -11,3 +11,7 @@ Presentación
 
 https://docs.google.com/presentation/d/1HTeZ52aAyQWlPXROpBWWWL_Ej8A0mBZw/edit?usp=drive_link&ouid=100547067453941992909&rtpof=true&sd=true
 
+Para acceder a la aplicación web entrar en el siguiente enlace: 
+
+https://saludai-877y.onrender.com
+
