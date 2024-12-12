@@ -10,7 +10,7 @@ def get_chatgpt_response(prompt):
 
         # Genera la respuesta desde el modelo de Cohere
         response = co.generate(
-            model='command-xlarge-nightly',
+            model='command-r-plus-08-2024',
             prompt=prompt,
             max_tokens=150
         )
